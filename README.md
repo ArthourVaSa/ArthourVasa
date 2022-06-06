@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arthour Vásquez</h1>
 <h3 align="center">A passionate frontend developer from Peru</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arthourvasa" alt="arthourvasa" /></a> </p>
+<p align="left"> <a href="https://github.com/ArthourVaSa/ArthourVasa/"><img src="https://github-profile-trophy.vercel.app/?username=arthourvasa" alt="arthourvasa" /></a> </p>
 
 - 🌱 I’m currently learning **React, NodeJs, Django, Clean Architecture**
 
