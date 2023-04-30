@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Arthour Vásquez</h1>
-<h3 align="center">A passionate frontend developer from Peru</h3>
+<h3 align="center">A passionate software developer from Peru</h3>
 
 <p align="left"> <a href="https://github.com/ArthourVaSa/ArthourVasa/"><img src="https://github-profile-trophy.vercel.app/?username=arthourvasa" alt="arthourvasa" /></a> </p>
 
-- 🌱 I’m currently learning **React, NodeJs, Django, Clean Architecture**
+- 🌱 I’m currently learning **Clean Architecture, Algorithmic complexity**
 
-- 💬 Ask me about **Flutter, Dart, Python**
+- 💬 Ask me about **Flutter, Dart, Python, Django**
 
 - 📫 How to reach me **arjavasaes21@gmail.com**
 
